@@ -1,8 +1,0 @@
-{
-  "dbname": "sai.db",
-  "user": "postgres",
-  "password": "12345",
-  "host": "localhost",
-  "port": "5432",
-  "url": "https://data.wa.gov/api/views/f6w7-q2d2/rows.json?accessType=DOWNLOAD"
-}
